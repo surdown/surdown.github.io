@@ -1,0 +1,11 @@
+{
+  "dependencies": [{
+      "path": "@material/textfield/dist/mdc.textfield.js"
+    },
+    {
+      "path": "./harmonium/100_Dha_B_harmonium1_1.mp3",
+      "type": "bundle-mp3"
+    }
+
+  ]
+}

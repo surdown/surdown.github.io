@@ -1,0 +1,33 @@
+@import "theme";
+@import "@material/textfield/mdc-text-field";
+
+.surdown-container.mdc-text-field--textarea{
+    border-color: white;
+    &.mdc-text-field--focused:not(.mdc-text-field--disabled) {
+        border-color: white;
+        
+        .mdc-text-field__input:focus{
+            border-color: white;
+
+        }
+        
+    }
+    
+
+}
+
+textarea {
+    
+    &.surdown{
+        resize: vertical;
+        border: none;
+        width:100%;
+        height: 100%;
+        font-size: 3rem;
+        line-height: 3.2rem;
+        color: #000000d2
+        
+
+    }
+  }
+
