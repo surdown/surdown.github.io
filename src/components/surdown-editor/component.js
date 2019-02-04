@@ -52,7 +52,7 @@ var comp = {
             73: '100_Sa_H_harmonium1_1.mp3',
         }, {
             'release': 1,
-            'baseUrl': 'media/harmonium/'
+            'baseUrl': 'static/sounds/harmonium/'
         }).toMaster();
         var vol = new Tone.Volume(0);
         this.piano.chain(vol, Tone.Master);

@@ -1,6 +1,6 @@
 const gulp = require('gulp')
 const zipdir = require('zip-dir');
-const directoryName = 'docs';
+const directoryName = '.';
 const path = require('path')
 
 var outputDirectory = path.resolve(`.`, `${directoryName}`)

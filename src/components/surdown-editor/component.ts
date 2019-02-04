@@ -68,7 +68,7 @@ var comp = {
 
 		}, {
 				'release': 1,
-				'baseUrl': 'media/harmonium/'
+				'baseUrl': 'static/sounds/harmonium/'
 			}).toMaster();
 
 
