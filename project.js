@@ -39,7 +39,10 @@ module.exports = require("marko-starter").projectConfig({
         }
       },
       {
-        "plugin": require('./mp3-bundler/index')
+        "plugin": "lasso-any-file",
+        "config": {
+          "dir_name": "sounds"
+        }
       }
     ]
   }

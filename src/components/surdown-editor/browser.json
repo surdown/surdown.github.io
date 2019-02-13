@@ -4,72 +4,72 @@
     },
     {
       "path": "./harmonium/100_Dha_B_harmonium1_1.mp3",
-      "type": "bundle-mp3",
+      "type": "lasso-any-file",
       "out_dir": "harmonium"
     },
     {
       "path": "./harmonium/100_Dha_M_harmonium1_1.mp3",
-      "type": "bundle-mp3",
+      "type": "lasso-any-file",
       "out_dir": "harmonium"
     },
     {
       "path": "./harmonium/100_Ga_H_harmonium1_1.mp3",
-      "type": "bundle-mp3",
+      "type": "lasso-any-file",
       "out_dir": "harmonium"
     },
     {
       "path": "./harmonium/100_Ga_M_harmonium1_1.mp3",
-      "type": "bundle-mp3",
+      "type": "lasso-any-file",
       "out_dir": "harmonium"
     },
     {
       "path": "./harmonium/100_Ma_H_harmonium1_1.mp3",
-      "type": "bundle-mp3",
+      "type": "lasso-any-file",
       "out_dir": "harmonium"
     },
     {
       "path": "./harmonium/100_Ma_M_harmonium1_1.mp3",
-      "type": "bundle-mp3",
+      "type": "lasso-any-file",
       "out_dir": "harmonium"
     },
     {
       "path": "./harmonium/100_Ni_B_harmonium1_1.mp3",
-      "type": "bundle-mp3",
+      "type": "lasso-any-file",
       "out_dir": "harmonium"
     },
     {
       "path": "./harmonium/100_Ni_M_harmonium1_1.mp3",
-      "type": "bundle-mp3",
+      "type": "lasso-any-file",
       "out_dir": "harmonium"
     },
     {
       "path": "./harmonium/100_Pa_B_harmonium1_1.mp3",
-      "type": "bundle-mp3",
+      "type": "lasso-any-file",
       "out_dir": "harmonium"
     },
     {
       "path": "./harmonium/100_Pa_M_harmonium1_1.mp3",
-      "type": "bundle-mp3",
+      "type": "lasso-any-file",
       "out_dir": "harmonium"
     },
     {
       "path": "./harmonium/100_Re_H_harmonium1_1.mp3",
-      "type": "bundle-mp3",
+      "type": "lasso-any-file",
       "out_dir": "harmonium"
     },
     {
       "path": "./harmonium/100_Re_M_harmonium1_1.mp3",
-      "type": "bundle-mp3",
+      "type": "lasso-any-file",
       "out_dir": "harmonium"
     },
     {
       "path": "./harmonium/100_Sa_B_harmonium1_1.mp3",
-      "type": "bundle-mp3",
+      "type": "lasso-any-file",
       "out_dir": "harmonium"
     },
     {
       "path": "./harmonium/100_Sa_H_harmonium1_1.mp3",
-      "type": "bundle-mp3",
+      "type": "lasso-any-file",
       "out_dir": "harmonium"
     }
 

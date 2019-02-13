@@ -1,5 +1,4 @@
-import { MDCTopAppBar } from '@material/top-app-bar/index';
-import MDCAdapter from '../../lib/MDCAdapter';
+import { MDCTopAppBar } from '@material/top-app-bar/dist/mdc.topAppBar.js';
 
 var comp = {
     onCreate: function () {
@@ -8,7 +7,7 @@ var comp = {
     },
     onMount: function () {
         const topAppBarElement = this.getEl('top-bar');
-        this.comp = MDCAdapter.attachTo(topAppBarElement, 'MDCTopAppBar');
+        this.comp = MDCTopAppBar.attachTo(topAppBarElement);
     },
     menu: function (...args) {
         this.emit('menu', ...args);

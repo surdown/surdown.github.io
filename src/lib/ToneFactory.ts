@@ -1,8 +1,14 @@
+
+
+
+
+
 export default class ToneFactory{
 
     static Instance():any{
-        const Tone = require("Tone");
-        return Tone;
+        const T = require("Tone");
+
+        return T ;
     }
 
 }

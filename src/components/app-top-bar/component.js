@@ -1,12 +1,12 @@
 "use strict";
-const MDCAdapter_1 = require("../../lib/MDCAdapter");
+const mdc_topAppBar_js_1 = require("@material/top-app-bar/dist/mdc.topAppBar.js");
 var comp = {
     onCreate: function () {
         this.state = {};
     },
     onMount: function () {
         const topAppBarElement = this.getEl('top-bar');
-        this.comp = MDCAdapter_1.default.attachTo(topAppBarElement, 'MDCTopAppBar');
+        this.comp = mdc_topAppBar_js_1.MDCTopAppBar.attachTo(topAppBarElement);
     },
     menu: function (...args) {
         this.emit('menu', ...args);

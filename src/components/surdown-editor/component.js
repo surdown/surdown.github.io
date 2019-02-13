@@ -2,7 +2,7 @@
 const ToneFactory_1 = require("../../lib/ToneFactory");
 const SD = require("surdownjs");
 const SampleCompositions_1 = require("../../lib/SampleCompositions");
-const MDCAdapter_1 = require("../../lib/MDCAdapter");
+const mdc_textfield_js_1 = require("@material/textfield/dist/mdc.textfield.js");
 var comp = {
     onCreate: function () {
         this.state = {};
@@ -12,7 +12,7 @@ var comp = {
     },
     play: async function () {
         let input = this.getEl('textarea');
-        const Tone = ToneFactory_1.default.Instance();
+        const Tone = require("Tone");
         localStorage.setItem('composition', input.value);
         input.focus();
         Tone.context.resume().then(() => {
@@ -20,7 +20,7 @@ var comp = {
         });
     },
     onMount: function () {
-        this.comp = MDCAdapter_1.default.attachTo(this.getEl('editor'), 'MDCTextField');
+        this.comp = mdc_textfield_js_1.MDCTextField.attachTo(this.getEl('editor'));
         let view = require('../fullscreen-loader');
         var loader = view.renderSync({});
         let a = loader.appendTo(document.body);

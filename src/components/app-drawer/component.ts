@@ -1,5 +1,4 @@
-import { MDCTopAppBar } from '@material/top-app-bar/index';
-import MDCAdapter from '../../lib/MDCAdapter';
+import { MDCTemporaryDrawer } from '@material/drawer/dist/mdc.drawer.js';
 
 var comp = {
     onCreate: function () {
@@ -8,7 +7,7 @@ var comp = {
     },
     onMount: function () {
         const topAppBarElement = this.getEl('temporary-drawer');
-        this.comp = MDCAdapter.attachTo(topAppBarElement, 'MDCTemporaryDrawer');
+        this.comp = MDCTemporaryDrawer.attachTo(topAppBarElement);
     },
     open: function () {
         this.comp.open = true;

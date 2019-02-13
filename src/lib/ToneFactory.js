@@ -2,8 +2,8 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 class ToneFactory {
     static Instance() {
-        const Tone = require("Tone");
-        return Tone;
+        const T = require("Tone");
+        return T;
     }
 }
 exports.default = ToneFactory;
