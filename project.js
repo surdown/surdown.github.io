@@ -32,12 +32,12 @@ module.exports = require("marko-starter").projectConfig({
     minifyJS: false,
     plugins: [
       'lasso-marko',
-      {
-        "plugin": "lasso-sass",
-        "config": {
-          "includePaths": ["./node_modules", "./src/styles"]
-        }
-      },
+      // {
+      //   "plugin": "lasso-sass",
+      //   "config": {
+      //     "includePaths": ["./node_modules", "./src/styles"]
+      //   }
+      // },
       {
         "plugin": "lasso-any-file",
         "config": {

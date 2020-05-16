@@ -1,0 +1,115 @@
+{
+  "dependencies": [
+    {
+      "type": "lasso-any-file",
+      "path": "./assets/libs/@fortawesome/fontawesome-free/webfonts/fa-brands-400.eot",
+      "out_dir": "webfonts"
+    },
+    {
+      "type": "lasso-any-file",
+      "path": "./assets/libs/@fortawesome/fontawesome-free/webfonts/fa-brands-400.svg",
+      "out_dir": "webfonts"
+    },
+    {
+      "type": "lasso-any-file",
+      "path": "./assets/libs/@fortawesome/fontawesome-free/webfonts/fa-brands-400.ttf",
+      "out_dir": "webfonts"
+    },
+    {
+      "type": "lasso-any-file",
+      "path": "./assets/libs/@fortawesome/fontawesome-free/webfonts/fa-brands-400.woff",
+      "out_dir": "webfonts"
+    },
+    {
+      "type": "lasso-any-file",
+      "path": "./assets/libs/@fortawesome/fontawesome-free/webfonts/fa-brands-400.woff2",
+      "out_dir": "webfonts"
+    },
+    {
+      "type": "lasso-any-file",
+      "path": "./assets/libs/@fortawesome/fontawesome-free/webfonts/fa-regular-400.eot",
+      "out_dir": "webfonts"
+    },
+    {
+      "type": "lasso-any-file",
+      "path": "./assets/libs/@fortawesome/fontawesome-free/webfonts/fa-regular-400.svg",
+      "out_dir": "webfonts"
+    },
+    {
+      "type": "lasso-any-file",
+      "path": "./assets/libs/@fortawesome/fontawesome-free/webfonts/fa-regular-400.ttf",
+      "out_dir": "webfonts"
+    },
+    {
+      "type": "lasso-any-file",
+      "path": "./assets/libs/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff",
+      "out_dir": "webfonts"
+    },
+    {
+      "type": "lasso-any-file",
+      "path": "./assets/libs/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff2",
+      "out_dir": "webfonts"
+    },
+    {
+      "type": "lasso-any-file",
+      "path": "./assets/libs/@fortawesome/fontawesome-free/webfonts/fa-solid-900.eot",
+      "out_dir": "webfonts"
+    },
+    {
+      "type": "lasso-any-file",
+      "path": "./assets/libs/@fortawesome/fontawesome-free/webfonts/fa-solid-900.svg",
+      "out_dir": "webfonts"
+    },
+    {
+      "type": "lasso-any-file",
+      "path": "./assets/libs/@fortawesome/fontawesome-free/webfonts/fa-solid-900.ttf",
+      "out_dir": "webfonts"
+    },
+    {
+      "type": "lasso-any-file",
+      "path": "./assets/libs/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff",
+      "out_dir": "webfonts"
+    },
+    {
+      "type": "lasso-any-file",
+      "path": "./assets/libs/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2",
+      "out_dir": "webfonts"
+    },
+    {
+      "type": "lasso-any-file",
+      "path": "./assets/libs/@fortawesome/fontawesome-free/css/all.min.css",
+      "out_dir": "css"
+    },
+    {
+      "type": "css",
+      "url": "/static/sounds/css/all.min.css"
+    },
+    {
+      "type": "lasso-any-file",
+      "path": "./assets/css/quick-website.css",
+      "out_dir": "css"
+    },
+    {
+      "type": "lasso-any-file",
+      "path": "./assets/css/quick-website.css.map",
+      "out_dir": "css"
+    },
+    {
+      "type": "css",
+      "url": "/static/sounds/css/quick-website.css"
+    },
+    "./assets/libs/jquery/dist/jquery.min.js",
+    "./assets/libs/bootstrap/dist/js/bootstrap.bundle.min.js",
+    "./assets/libs/in-view/dist/in-view.min.js",
+    "./assets/libs/sticky-kit/dist/sticky-kit.min.js",
+    "./assets/libs/svg-injector/dist/svg-injector.min.js",
+    "./assets/libs/feather-icons/dist/feather.min.js",
+    "./assets/libs/imagesloaded/imagesloaded.pkgd.min.js",
+    "./assets/libs/jquery.scrollbar/jquery.scrollbar.min.js",
+    "./assets/libs/jquery-scroll-lock/dist/jquery-scrollLock.min.js",
+    "./assets/libs/typed.js/lib/typed.min.js",
+    "./assets/libs/swiper/dist/js/swiper.min.js",
+    "./assets/libs/@fancyapps/fancybox/dist/jquery.fancybox.min.js",
+    "./assets/js/quick-website.js"
+  ]
+}
