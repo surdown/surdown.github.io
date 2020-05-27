@@ -29,6 +29,19 @@ Live Editor - [https://surdown.github.io](https://surdown.github.io)
 
 ```
 
+**3. Bandish - Shyaam bajave ban me bansuriya**
+
+```
+||120||d||
+
+P| M R -R | G-GR |-- </NR><G R>|/NRS
+P| M R -R | G-GR |-- </NR><G R>|/NRS
+
+/N|S/D-/N|R-RG|-G<RG><MP>|GRS
+P| M R -R | G-GR |-- </NR><G R>|/NRS
+G|MDND|*S-*S-|N*R*G*R|N*R*S|
+*S|NP-R|G---|PMGR|/NRS
+```
 ---------
 
 What is Surdown?
