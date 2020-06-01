@@ -100,6 +100,7 @@
     },
     "./assets/libs/jquery/dist/jquery.min.js",
     "./assets/libs/bootstrap/dist/js/bootstrap.bundle.min.js",
+    "./assets/libs/autosize/dist/autosize.min.js",
     "./assets/libs/in-view/dist/in-view.min.js",
     "./assets/libs/sticky-kit/dist/sticky-kit.min.js",
     "./assets/libs/svg-injector/dist/svg-injector.min.js",
